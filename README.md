@@ -3,7 +3,7 @@
 ## 要求
 
 1. 通过Vue-Cli 的`vue create multi-counter`, 创建Vue开发栈
-2. 在此栈中实现Counte组件：
+2. 在此栈中实现Counter组件：
 
 > 两个按钮 “+” 和 “-”
 >
